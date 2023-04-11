@@ -1,0 +1,19 @@
+{
+  "name": "easy-string-master",
+  "version": "1.0.0",
+  "description": "Provide function to handle with many string cases in reality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninhcongluc/easy-string-npm-package.git"
+  },
+  "author": "Luc Ninh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninhcongluc/easy-string-npm-package/issues"
+  },
+  "homepage": "https://github.com/ninhcongluc/easy-string-npm-package#readme"
+}
