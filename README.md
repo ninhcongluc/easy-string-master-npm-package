@@ -1,0 +1,1 @@
+# easy-string-npm-package
